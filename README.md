@@ -1,0 +1,1 @@
+# Example on how to style XML and render base64 images
